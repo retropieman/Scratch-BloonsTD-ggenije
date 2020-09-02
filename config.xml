@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="edu.mit.scratch.bloontd" version="1.0.0" >
+
+  <name>Scratch TD</name>
+
+  <description>Select one of 4 tracks then place and upgrade towers to beat all 75 rounds of bloons.[MOAB=big bloon]</description>
+
+  <author href="https://scratch.mit.edu/users/ggenije/" email="nobody@example.com">You</author>
+
+  <icon src="icon.png" />
+
+</widget>
